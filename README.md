@@ -1,4 +1,5 @@
 # $tocks
+#### Live View: [$tocks](https://stoks.herokuapp.com/)
 #### Description: Website that gives you a taste of buying stocks without buying stocks.
 #### Tech Stacks: HTML, CSS, Bootstrap, Flask, SQLite3
 ## Overview
