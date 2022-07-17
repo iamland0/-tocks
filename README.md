@@ -25,8 +25,8 @@ After you check the stock's price in quote, you can then buy stocks if you want 
 ### Sell
 ![sell](https://user-images.githubusercontent.com/93187436/179388960-a53b8642-657b-4158-92a0-cbb7d70a502a.JPG)
 Of course after you buy stocks, you might want to sell them in the future. So here, you can sell the stocks that you own. You just have to select which stocks you want to sell, and specify the number of shares that you want to sell.
-### History
-![history](https://user-images.githubusercontent.com/93187436/179389008-1217d4fa-633b-448a-a9c2-8ea3055f73ee.JPG)
+###History
+![history](https://user-images.githubusercontent.com/93187436/179390373-f05fe834-4c4a-4cc2-bb2a-087facb435f9.JPG)
 Here, you can see your purchase history. What stocks have you bought, the number of shares you have bought, the stock's price when you bought it, and when you bought that stocks (transaction date).
 ### Top-Up
 ![topup](https://user-images.githubusercontent.com/93187436/179389100-2a213671-6d68-4481-b762-0eb4520422df.JPG)
