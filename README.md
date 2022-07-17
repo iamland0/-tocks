@@ -36,4 +36,4 @@ In top-up, you can top-up some amount of money without paying literally anything
 ![changepass](https://user-images.githubusercontent.com/93187436/179389254-4f38ddc4-bac6-491b-a0dd-ece84e6e10ee.JPG)
 As the name implies, you can change your account password here.
 
-####Disclaimer: This project is part of CS50x course. This is a project from problem set 9 called "Finance." Here I did some changes on it, implementing new features and styling.
+#### Disclaimer: This project is part of CS50x course. This is a project from problem set 9 called "Finance." Here I did some changes on it, implementing new features and styling.
