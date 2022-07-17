@@ -1,0 +1,16 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Buy
+{% endblock %}
+
+{% block main %}
+    <h2 class="heading-text">Top-Up</h2>
+    <p>Max Top-Up: <strong>{{ max_topup | usd }}</strong></p>
+    <form action="/topup" method="post">
+        <div class="mb-3">
+            <input autocomplete="off" autofocus class="form-control mx-auto w-auto" min="1" name="topup" placeholder="Amount" type="number">
+        </div>
+        <button class="btn btn-primary" type="submit">Top-up</button>
+    </form>
+{% endblock %}

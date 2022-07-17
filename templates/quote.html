@@ -1,0 +1,17 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Quote
+{% endblock %}
+
+{% block main %}
+    <h2 class="heading-text">Quote</h2>
+    <form action="/quote" method="post">
+        <div class="mb-3">
+            <input autocomplete="off" autofocus class="form-control mx-auto w-auto" name="symbol" placeholder="Symbol" type="text">
+        </div>
+        <p>e.g., NFLX, AAPL, AMZN</p>
+        <p>More of stock symbols: <a href="https://stockanalysis.com/stocks/" target="blank_" rel="noopener noreferrer">Stock Analysis</a></p>
+        <button class="btn btn-primary" type="submit">Quote</button>
+    </form>
+{% endblock %}

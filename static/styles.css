@@ -1,0 +1,41 @@
+:root {
+    --font-family: 'DM Sans', sans-serif;
+    --fw-regular: 400;
+    --fw-medium: 500;
+    --fw-bold: 700;
+}
+
+body {
+    font-family: var(--font-family);
+}
+
+/* Size for brand */
+nav .navbar-brand
+{
+    font-size: 2rem;
+    font-weight: var(--fw-bold);
+    background: linear-gradient(to top, #FFF720 10%, #3CD500 100%);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+}
+
+
+.heading-text {
+    margin-bottom: 20px;
+    font-weight: var(--fw-bold);
+    font-size: 4rem;
+    background-image: linear-gradient(135deg, #43CBFF 10%, #9708CC 100%);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+}
+
+.table.table-hover {
+    max-width: 1300px;
+    margin: 0 auto;
+}
+
+
